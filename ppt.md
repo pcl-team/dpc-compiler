@@ -1,14 +1,25 @@
 ---
 theme: metropolis
-title: Revealing the 2D Texture Mapping Function 
-subtitle:  A linear-time algorithm for identifying the $n$ dimensions of the mapping function
-author: 'Ahmed El-Mahdy, Marwa Eltier, and Kholoud Shata'
+title: DPC++
+subtitle:  
+author: 'Ahmed El-Mahdy'
 institute: 'E-JUST'
-date: 7 April 2020
+date: 22 April 2020
 toc: false
 slide_level: 2
 header-includes: \metroset{progressbar=frametitle,sectionpage=progressbar}
 ---
+
+# DPC++ light, for embedded devices.
+
+# decompier
+
+# DBT: Dynamic Binary Translation
+
+# Deep Learning ...
+
+
+
 # Introduction
 
 ## Motivation
