@@ -51,7 +51,8 @@ header-includes: \metroset{progressbar=frametitle,sectionpage=progressbar}
   - OpenACC
   - OpenCL
   - CUDA
-
+  - Java?
+  - Fortran?
 
 ## {.standout}
 
