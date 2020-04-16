@@ -40,6 +40,13 @@ header-includes: \metroset{progressbar=frametitle,sectionpage=progressbar}
 
 - The main concept here is to utilise program models and Deep Learning, to learn code patterns for the GPUs.
 - This has the potential to generate novel optimisation than just figure out optimisation parameter as per typical use of machine learning.
+- The system would generate DPC++ code allowing for further optimisations.
+
+## Related Work
+
+- Probabilistic program model attempts of model, statistically, program patterns.
+- This is currently used in analysis and synthesis of programs.
+- No attempts has been yet done in the area of automatic parallelisation.
 
 # Transpilers: (Restructing Compilers)
 
