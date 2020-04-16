@@ -41,6 +41,18 @@ header-includes: \metroset{progressbar=frametitle,sectionpage=progressbar}
 - The main concept here is to utilise program models and Deep Learning, to learn code patterns for the GPUs.
 - This has the potential to generate novel optimisation than just figure out optimisation parameter as per typical use of machine learning.
 
+# Transpilers: (Restructing Compilers)
+
+## Concept
+
+- I couldn't find the source code of the Intel compatiblity tool.
+- We propose of have a restructuring compiler that targets:
+  - OpenMP
+  - OpenACC
+  - OpenCL
+  - CUDA
+
+
 ## {.standout}
 
 Thank you!
